@@ -44,7 +44,6 @@
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" title="splunk" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/op5/op5-icon.svg" alt="op5" title="op5" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws-cloud" title="AWS Cloud Monitoring" width="40" height="40"/>
 </p>
 
