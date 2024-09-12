@@ -29,7 +29,7 @@
 
 #### Integration Stack
 <p align="left">
-    <img src="https://www.softwareag.com/logos/webmethods.png" alt="webMethods" title="webMethods" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/softwareag/softwareag-ar21.svg" alt="webMethods" title="webMethods" width="40" height="40"/> 
 </p>
 
 #### Cloud Computing Stack
