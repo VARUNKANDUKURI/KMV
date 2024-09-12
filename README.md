@@ -65,5 +65,4 @@
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 
 - 💬 Ask me about **DevOps, Integration, and Cloud Technologies**
-- 📫 How to reach me **[varunkmv10@gmail.com](mailto:varunkmv10@gmail.com)**
-- ⚡ Fun fact **I enjoy solving complex system integration problems**
+- 📫 Contact :- **[varunkmv10@gmail.com](mailto:varunkmv10@gmail.com)**
