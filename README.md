@@ -16,7 +16,7 @@
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="rhel" title="rhel" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" title="centos" width="40" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/microsoft_windows/microsoft_windows-icon.svg" alt="windows" title="windows" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" alt="windows" title="windows" width="40" height="40"/>
 </p>
 
 #### Programming Language Stack
