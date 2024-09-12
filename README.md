@@ -1,7 +1,7 @@
 # KMV
 
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Varun K M, a passionate <a href="https://www.linkedin.com/in/varun-k-m/">DevOps / Integration Engineer</a></font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Varun K M, a passionate <a href="https://www.linkedin.com/in/varunkandukuri18/">DevOps / Integration Engineer</a></font></h1>
 <h3 align="center"><font face="Arial">I am an experienced DevOps and Integration Engineer from India, with 6+ years of expertise in Cloud, DevOps, and Integration.</font></h3>
 
 <!-- GIF -->
