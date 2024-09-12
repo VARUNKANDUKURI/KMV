@@ -1,15 +1,14 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hello, I'm <a href="https://www.linkedin.com/in/varunkandukuri18/">Varun K M</a></font></h1>
-<h3 align="center"><font face="Arial">I am a passionate DevOps / Integration Engineer from Chennai,India with 6+ years of experience, dedicated to designing, implementing, and optimizing end-to-end systems.:</font></h3>
-
-<!-- GIF -->
-<!--<img align="right" height="300" width="500" src="https://stock.adobe.com/images/programmer-coder-web-developer-or-software-engineer-sitting-at-desk-and-working-on-computer-or-programming-workplace-of-it-worker-back-view-colorful-vector-illustration-in-flat-cartoon-style/224869243" /> -->
+<h1 align="center" style="color:#0073e6; font-family:Arial; font-weight:600;">Hello, I'm <a href="https://www.linkedin.com/in/varunkandukuri18/" style="color:#0073e6; text-decoration:none;">Varun K M</a></h1>
+<h3 align="center" style="color:#333333; font-family:Arial; font-weight:400;">A passionate DevOps / Integration Engineer from Chennai, India, with 6+ years of experience, dedicated to designing, implementing, and optimizing end-to-end systems.</h3>
 
 <!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+<h3 align="left" style="font-family:Verdana; font-size:1.5em; color:#0073e6;">Languages and Tools:</h3>
 
-- I specialize in DevOps, Cloud Architecture, and System Integration.
-- I’m open to collaboration on **Cloud-native** and **Integration Projects**.
+<ul style="color:#333333; font-family:Verdana; font-size:1.1em;">
+    <li>I specialize in DevOps, Cloud Architecture, and System Integration.</li>
+    <li>I’m open to collaboration on <b>Cloud-native</b> and <b>Integration Projects</b>.</li>
+</ul>
 
 #### OS Stack
 <p align="left">
@@ -61,7 +60,9 @@
 </p>
 
 <!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+<h3 align="left" style="font-family:Verdana; font-size:1.5em; color:#0073e6;">Connect with me:</h3>
 
-- 💬 Ask me about **DevOps, Integration, and Cloud Technologies**
-- 📫 Contact :- **[varunkmv10@gmail.com](mailto:varunkmv10@gmail.com)**
+<ul style="color:#333333; font-family:Verdana; font-size:1.1em;">
+    <li>💬 Ask me about <b>DevOps, Integration, and Cloud Technologies</b></li>
+    <li>📫 Contact: <a href="mailto:varunkmv10@gmail.com" style="color:#0073e6; text-decoration:none;">varunkmv10@gmail.com</a></li>
+</ul>
